@@ -2,11 +2,16 @@
 
 ## I'm Danilo Mello
 
--  I live in 🇧🇷
--  Currently I am working as an Incident Management Analyst at Orange 🍊
+-  I live in 🇧🇷, southeast :cold_face: 🌨️
+-  Currently, I've been working as an Incident Management Analyst at Orange 🍊
 - 👀 But I’ve been looking for an opportunity as a Front-end developer
-- 🌱 I’m currently learning Javascript
-- 📫 How to reach me on my github account @daniluus
+- 🌱 I've been learning more about Javascript's world
+
+## Connect with me:
+<a href="https://www.linkedin.com/in/danilo-mello-257a15145/" target="_blank">
+  <img align="center" heigh="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg">
+</a>
+
 
 <!---
 daniluus/daniluus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
