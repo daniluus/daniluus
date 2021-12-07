@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @daniluus
-- 👀 I’m interested in Full Stack
-- 🌱 I’m currently learning C# and Javascript
-- 💞️ I’m looking to collaborate on Web Development
+### Hi there 👋
+
+## I'm Danilo Mello
+
+-  I live in 🇧🇷
+-  Currently I am working as an Incident Management Analyst at Orange 🍊
+- 👀 But I’ve been looking for an opportunity as a Front-end developer
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me on my github account @daniluus
 
 <!---
