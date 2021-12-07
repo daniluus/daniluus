@@ -2,10 +2,10 @@
 
 ## I'm Danilo Mello
 
--  I live in 🇧🇷, southeast :cold_face: 🌨️
--  Currently, I've been working as an Incident Management Analyst at Orange 🍊
-- 👀 But I’ve been looking for an opportunity as a Front-end developer
-- 🌱 I've been learning more about Javascript's world
+- I live in 🇧🇷, southeast :cold_face: 🌨️
+- Currently, I've been working as an _Incident Management Analyst_ at __Orange__ 🍊
+- But I’ve been looking for an opportunity as a Front-end developer. 👀
+- I've been learning more about Javascript's world. 🌱
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/danilo-mello-257a15145/" target="_blank">
