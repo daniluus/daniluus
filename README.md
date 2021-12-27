@@ -4,7 +4,7 @@
 
 - I live in 🇧🇷, southeast :cold_face: 🌨️
 - Currently, I've been working as an _Incident Management Analyst_ at __Orange__ 🍊
-- But I’ve been looking for an opportunity as a Front-end developer. 👀
+- But I’ve been looking for an opportunity as a `Front-end developer`. 👀
 - I've been learning more about Javascript's world. 🌱
 
 ## Connect with me:
