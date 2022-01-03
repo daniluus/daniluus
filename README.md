@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## I'm Danilo Mello
+### Hi there! I'm Danilo Mello  👋
 
 - I live in 🇧🇷, southeast :cold_face: 🌨️
 - Currently, I've been working as an _Incident Management Analyst_ at __Orange__ 🍊
