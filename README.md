@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/danilo-mello-257a15145/" target="_blank">
   <img align="center" heigh="30" width="150" src="https://user-images.githubusercontent.com/55250414/149700050-335f06b5-6f1b-42b0-88a7-eea800415b8a.png">
 </a>
-<a href="daniloomelloo@gmail.com" target="_blank">
+<a href="mailto:daniloomelloo@gmail.com" target="_blank">
   <img align="center" heigh="30" width="150" src="https://user-images.githubusercontent.com/55250414/149700197-f9d6edf3-e01c-4817-b6a8-9b77a0f90e45.png">
 </a>
 <a href="https://codepen.io/daniluus" target="_blank">
